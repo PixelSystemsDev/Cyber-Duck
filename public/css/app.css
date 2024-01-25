@@ -1438,3 +1438,7 @@ select {
   }
 }
 
+.text-red-500 {
+    color: darkred;
+    font-weight: bold;
+}
